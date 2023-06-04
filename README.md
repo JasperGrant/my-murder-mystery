@@ -1,5 +1,6 @@
 # my-murder-mystery
-A CLI Detective Game made in 3 hours for the lifelike hackathon. Buggy but fun!
+A Detective game where you as the detective will have to find the murderer in a mystery written by ChatGPT. 
+A CLI Game made in 3 hours for the lifelike hackathon. Buggy but fun!
 
 ## Setup
 1. Clone project from ``` https://github.com/JasperGrant/my-murder-mystery.git ```
