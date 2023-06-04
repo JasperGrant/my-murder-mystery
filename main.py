@@ -19,8 +19,8 @@ openai.api_key = os.getenv("OPENAI_API_KEY")
 llm = OpenAI(openai_api_key=os.getenv("OPENAI_API_KEY"))
 
 # Set up files for characters and conversations
-characters = brain.Characters('json/characters.json')
-conversations = brain.Conversations('json/conversations/json', characters, llm)
+characters = brain.Characters('characters.json')
+conversations = brain.Conversations('conversations/json', characters, llm)
 
 # Add player character
 characters.add('Detective', '')
