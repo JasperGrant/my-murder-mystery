@@ -1,0 +1,4 @@
+openai~=0.27.7
+lifelike~=1.0.7
+langchain~=0.0.181
+python-dotenv~=1.0.0
